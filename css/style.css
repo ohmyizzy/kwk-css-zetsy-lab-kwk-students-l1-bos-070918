@@ -55,3 +55,6 @@ p {
     text-decoration: none;
 }
 
+#featured a:hover {
+	text-decoration: underline;
+}

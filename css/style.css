@@ -54,3 +54,9 @@ p {
     color: #1783bb;
     text-decoration: none;
 }
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
